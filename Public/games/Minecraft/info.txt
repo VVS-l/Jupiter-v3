@@ -1,0 +1,3 @@
+Name: Minecraft
+Genre: Adventure
+URL: /games/Minecraft/index.html

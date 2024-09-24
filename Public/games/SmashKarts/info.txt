@@ -1,0 +1,3 @@
+Name: Smash Karts
+Genre: Action
+URL: /games/SmashKarts/index.html

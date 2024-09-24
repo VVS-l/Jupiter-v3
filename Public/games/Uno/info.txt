@@ -1,0 +1,3 @@
+Name: Uno
+Genre: Strategy
+URL: /games/Uno/index.html
